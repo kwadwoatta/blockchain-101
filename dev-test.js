@@ -1,4 +1,4 @@
-const Block = require('./Block');
+const Block = require('./block');
 
 // const block = new Block('foo', 'bar', 'zoo', 'buzz');
 // console.log(block.toString());
